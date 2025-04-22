@@ -42,7 +42,7 @@ python client.py
 
 ⚠️ Always start the server before the client.
 
-📁 Project Structure
+## 📁 Project Structure
 
 File-Conversion-Tool/
 ├── client.py          # GUI-based client
@@ -51,17 +51,17 @@ File-Conversion-Tool/
 ├── README.md          # Project documentation
 └── LICENSE            # Project license
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 
  Saksham 
 
-🛠 Built with:
+## 🛠 Built with:
 Python, ttkbootstrap, PyMuPDF, pdf2docx, Pillow, and other powerful libraries for advanced PDF and file processing.
 
-🌟 Star This Repo
+## 🌟 Star This Repo
 
 If you find this tool useful, please consider giving it a ⭐. It helps others discover it!
