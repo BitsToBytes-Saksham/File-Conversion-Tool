@@ -56,9 +56,12 @@ File-Conversion-Tool/
 This project is licensed under the MIT License.
 
 🙋‍♂️ Author
-   Saksham 
 
-
+ Saksham 
 
 🛠 Built with:
 Python, ttkbootstrap, PyMuPDF, pdf2docx, Pillow, and other powerful libraries for advanced PDF and file processing.
+
+🌟 Star This Repo
+
+If you find this tool useful, please consider giving it a ⭐. It helps others discover it!
