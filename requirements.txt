@@ -1,0 +1,12 @@
+tkinter
+ttkbootstrap
+requests
+pypdf
+PyMuPDF
+pdf2docx
+python-pptx
+reportlab
+Pillow
+comtypes
+openpyxl
+python-docx
