@@ -42,6 +42,10 @@ python client.py
 
 ⚠️ Always start the server before the client.
 
+## 🖼️ GUI Preview
+
+![File-Conversion-Tool-Interface](https://raw.githubusercontent.com/YourUsername/YourRepo/main/File-Conversion-Tool-Interface.png)
+
 ## 📁 Project Structure
 
 File-Conversion-Tool/
