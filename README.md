@@ -44,7 +44,7 @@ python client.py
 
 ## 🖼️ GUI Preview
 
-![File-Conversion-Tool-Interface](https://raw.githubusercontent.com/YourUsername/YourRepo/main/File-Conversion-Tool-Interface.png)
+![File-Conversion-Tool-Interface](https://raw.githubusercontent.com/BitsToBytes-Saksham/File-Conversion-Tool/main/File-Conversion-Tool-Interface.png)
 
 ## 📁 Project Structure
 
